@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Arduino-based IoT projects and C programming fundamentals<br><br>🤝 I’m looking to collaborate on Open-Source, Web Development, and Beginner AI/ML projects<br><br>🛠 I’m looking for help with Data Structures, Git workflows, and Backend development<br><br>🌱 I’m currently learning C, C++, DSA, SQL, and Cloud basics<br><br>💬 Ask me about C programming, Arduino projects, GitHub setup<br><br>⚡ Fun fact: I love turning ideas into real working systems 🚗⚙️
+🔭 I’m currently working on C programming and ai-ml fundamentals.<br><br>🤝 I’m looking to collaborate on Open-Source, Web Development, and Beginner AI/ML projects<br><br>🛠 I’m looking for help with Data Structures, Git workflows, and Backend development<br><br>🌱 I’m currently learning C, C++, DSA, SQL, and Cloud basics<br><br>💬 Ask me about C programming, Arduino projects, GitHub setup<br><br>⚡ Fun fact: I love turning ideas into real working systems 🚗⚙️
 
 
 ## 🌐 Socials:
